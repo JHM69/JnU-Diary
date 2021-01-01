@@ -14,10 +14,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1af33011-adbb-430d-a1f6-d21a4c013686" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/Activity/DetailsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_details.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/Fragments/Dashboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/Fragments/Dashboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/Model/Faculty.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/Model/Faculty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/Model/Onushod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/Activity/AddEntryActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/Activity/AddEntryActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/Database/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/Database/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout-v23/item_teacher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout-v23/item_teacher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_teacher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_teacher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +61,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Jahangir" />
         <option value="JHM69" />
         <option value="jhm69" />
       </list>
@@ -83,8 +91,14 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="android.template.-35306243">
+      <recent name="com.csejnu.diary.Activity" />
+    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.csejnu.diary.Fragments" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\JnUDiary\app\src\main\res\menu" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\JnUDiary\app\src\main\res\font" />
@@ -93,14 +107,11 @@
       <recent name="F:\JnUDiary\app\src\main\res\layout" />
       <recent name="F:\JnUDiary\app\src\main\res\values" />
     </key>
-    <key name="android.template.-1284049111">
-      <recent name="com.csejnu.diary.Activity" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.csejnu.diary.Activity" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\JnUDiary\app\src\main\res\menu" />
+    <key name="android.template.-1284049111">
+      <recent name="com.csejnu.diary.Activity" />
     </key>
   </component>
   <component name="RunManager">
@@ -229,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609509919078</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Updated">
+      <created>1609510576388</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609510576388</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -243,7 +261,8 @@
     <MESSAGE value="database updated" />
     <MESSAGE value="updated" />
     <MESSAGE value="Updated UI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated UI" />
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -261,10 +280,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="441" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1609496905280" />
-    <state x="347" y="56" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609506139512">
+    <state x="347" y="56" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609513696170">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="347" y="56" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1609506139512" />
+    <state x="347" y="56" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1609513696170" />
     <state x="343" y="183" key="#com.intellij.refactoring.turnRefsToSuper.TurnRefsToSuperDialog" timestamp="1609502491840">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -281,10 +300,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="466" y="113" key="AndroidCreateXmlResourceDialog/0.0.1366.738@0.0.1366.738" timestamp="1609507506253" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1609509916064">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1609510574091">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1609509916064" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1609510574091" />
     <state x="401" y="65" key="FileChooserDialogImpl" timestamp="1609507533274">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -297,30 +316,30 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="281" y="0" key="Github.UntrackedFilesDialog/0.0.1366.738@0.0.1366.738" timestamp="1609053638141" />
-    <state width="1312" height="197" key="GridCell.Tab.0.bottom" timestamp="1609503571489">
+    <state width="1312" height="208" key="GridCell.Tab.0.bottom" timestamp="1609513273461">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1312" height="197" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1609503571489" />
-    <state width="1312" height="197" key="GridCell.Tab.0.center" timestamp="1609503571489">
+    <state width="1312" height="208" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1609513273461" />
+    <state width="1312" height="208" key="GridCell.Tab.0.center" timestamp="1609513273461">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1312" height="197" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1609503571489" />
-    <state width="1312" height="197" key="GridCell.Tab.0.left" timestamp="1609503571489">
+    <state width="1312" height="208" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1609513273461" />
+    <state width="1312" height="208" key="GridCell.Tab.0.left" timestamp="1609513273460">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1312" height="197" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1609503571489" />
-    <state width="1312" height="197" key="GridCell.Tab.0.right" timestamp="1609503571489">
+    <state width="1312" height="208" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1609513273460" />
+    <state width="1312" height="208" key="GridCell.Tab.0.right" timestamp="1609513273461">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1312" height="197" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1609503571489" />
+    <state width="1312" height="208" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1609513273461" />
     <state x="104" y="0" key="SettingsEditor" timestamp="1609053493991">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="104" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1609053493991" />
-    <state x="175" y="37" key="Vcs.Push.Dialog.v2" timestamp="1609509966412">
+    <state x="175" y="37" key="Vcs.Push.Dialog.v2" timestamp="1609510586933">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="175" y="37" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1609509966412" />
+    <state x="175" y="37" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1609510586933" />
     <state x="292" y="39" key="VcsDiffUtil.ChangesDialog" timestamp="1609052594173">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
