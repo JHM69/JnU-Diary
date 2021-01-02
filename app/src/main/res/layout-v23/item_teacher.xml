@@ -14,7 +14,7 @@
 
 
     <androidx.cardview.widget.CardView
-        android:id="@+id/favv"
+        android:id="@+id/call"
         android:layout_width="45dp"
         android:layout_height="30dp"
         android:layout_marginTop="10dp"
@@ -31,8 +31,8 @@
         card_view:layout_constraintTop_toTopOf="parent">
 
         <ImageView
-            android:layout_width="26dp"
-            android:layout_height="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_margin="3dp"
             android:layout_marginTop="0dp"
@@ -90,7 +90,7 @@
 
 
     <androidx.cardview.widget.CardView
-        android:id="@+id/call"
+        android:id="@+id/favv"
         android:layout_width="45dp"
         android:layout_height="30dp"
         android:layout_marginTop="10dp"
@@ -103,14 +103,14 @@
         card_view:cardCornerRadius="20dp"
         card_view:cardElevation="7dp"
         card_view:layout_constraintBottom_toBottomOf="parent"
-        card_view:layout_constraintEnd_toStartOf="@+id/favv"
+        card_view:layout_constraintEnd_toStartOf="@+id/call"
         card_view:layout_constraintTop_toTopOf="parent"
         card_view:layout_constraintVertical_bias="0.488">
 
         <ImageView
             android:id="@+id/regt"
-            android:layout_width="26dp"
-            android:layout_height="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_margin="3dp"
             android:layout_marginTop="0dp"
@@ -137,8 +137,8 @@
         card_view:layout_constraintTop_toTopOf="parent">
 
         <ImageView
-            android:layout_width="20dp"
-            android:layout_height="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_margin="3dp"
             android:layout_marginTop="0dp"
