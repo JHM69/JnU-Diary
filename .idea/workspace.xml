@@ -36,18 +36,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1af33011-adbb-430d-a1f6-d21a4c013686" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/Fragments/FragmentNotices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/frag_notices.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sms.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_afollestad_material_dialogs_commons_0_8_6_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_afollestad_material_dialogs_commons_0_8_6_1_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_afollestad_material_dialogs_core_0_8_6_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_afollestad_material_dialogs_core_0_8_6_1_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_karumi_dexter_5_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_karumi_dexter_5_0_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__me_zhanghai_android_materialprogressbar_library_1_1_6_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__me_zhanghai_android_materialprogressbar_library_1_1_6_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/Activity/DetailsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/Activity/DetailsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/Activity/AddEntryActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/Activity/AddEntryActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/Adapter/FacultyAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/Adapter/FacultyAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/Database/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/Database/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/Fragments/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/Fragments/Department.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_teacher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_teacher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/Fragments/Dashboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/Fragments/Dashboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/csejnu/diary/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/options.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/options.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +83,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="JHM69 &lt;jahangirhmarup@gmail.com&gt;" />
         <option value="jhm69" />
         <option value="JHM69" />
         <option value="Jahangir" />
@@ -107,6 +107,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android-custom-viewC:/Users/Mohammad Sohel/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED" value="RecyclerView" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/font" />
     <property name="multi-representation-previewC:/Users/Mohammad Sohel/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_selected" value="Custom views" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -322,7 +323,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609602817000</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Done">
+      <created>1611330938912</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1611330938912</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -392,10 +400,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="516" y="133" key="AndroidCreateXmlResourceDialog/0.0.1366.738@0.0.1366.738" timestamp="1609602267178" />
-    <state x="100" y="43" width="915" height="555" key="CommitChangelistDialog2" timestamp="1609602815988">
+    <state x="100" y="43" width="915" height="555" key="CommitChangelistDialog2" timestamp="1611330933894">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="100" y="43" width="915" height="555" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1609602815988" />
+    <state x="100" y="43" width="915" height="555" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1611330933893" />
     <state x="401" y="65" key="FileChooserDialogImpl" timestamp="1609601857322">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -408,34 +416,38 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="281" y="0" key="Github.UntrackedFilesDialog/0.0.1366.738@0.0.1366.738" timestamp="1609053638141" />
-    <state width="1312" height="193" key="GridCell.Tab.0.bottom" timestamp="1609600272659">
+    <state width="1323" height="457" key="GridCell.Tab.0.bottom" timestamp="1614532439802">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1312" height="193" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1609600272659" />
-    <state width="1312" height="193" key="GridCell.Tab.0.center" timestamp="1609600272658">
+    <state width="1323" height="457" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1614532439802" />
+    <state width="1323" height="457" key="GridCell.Tab.0.center" timestamp="1614532439801">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1312" height="193" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1609600272658" />
-    <state width="1312" height="193" key="GridCell.Tab.0.left" timestamp="1609600272658">
+    <state width="1323" height="457" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1614532439801" />
+    <state width="1323" height="457" key="GridCell.Tab.0.left" timestamp="1614532439801">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1312" height="193" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1609600272658" />
-    <state width="1312" height="193" key="GridCell.Tab.0.right" timestamp="1609600272659">
+    <state width="1323" height="457" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1614532439801" />
+    <state width="1323" height="457" key="GridCell.Tab.0.right" timestamp="1614532439802">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1312" height="193" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1609600272659" />
+    <state width="1323" height="457" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1614532439802" />
     <state x="104" y="0" key="SettingsEditor" timestamp="1609602877584">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="104" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1609602877584" />
-    <state x="175" y="37" key="Vcs.Push.Dialog.v2" timestamp="1609603868986">
+    <state x="175" y="37" key="Vcs.Push.Dialog.v2" timestamp="1611330948443">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="175" y="37" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1609603868986" />
+    <state x="175" y="37" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1611330948443" />
     <state x="292" y="39" key="VcsDiffUtil.ChangesDialog" timestamp="1609052594173">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="292" y="39" key="VcsDiffUtil.ChangesDialog/0.0.1366.738@0.0.1366.738" timestamp="1609052594173" />
+    <state x="477" y="146" key="chooseDestDirectoryDialog" timestamp="1614530919264">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="477" y="146" key="chooseDestDirectoryDialog/0.0.1366.738@0.0.1366.738" timestamp="1614530919264" />
     <state x="280" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1609227972242">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

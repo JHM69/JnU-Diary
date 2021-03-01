@@ -3,6 +3,7 @@
     <ANNOTATIONS>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f01d9a3cbafb9ce2b6ce7a97c20f3138/jetified-commons-0.8.6.1/annotations.zip!/" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7d2380b499984ed493e1e6ec5e30477c/jetified-commons-0.8.6.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3b629a5c3233b6d744de5fc4bf069f47/jetified-commons-0.8.6.1/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f01d9a3cbafb9ce2b6ce7a97c20f3138/jetified-commons-0.8.6.1/jars/classes.jar!/" />
@@ -11,6 +12,9 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7d2380b499984ed493e1e6ec5e30477c/jetified-commons-0.8.6.1/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7d2380b499984ed493e1e6ec5e30477c/jetified-commons-0.8.6.1/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7d2380b499984ed493e1e6ec5e30477c/jetified-commons-0.8.6.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3b629a5c3233b6d744de5fc4bf069f47/jetified-commons-0.8.6.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3b629a5c3233b6d744de5fc4bf069f47/jetified-commons-0.8.6.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3b629a5c3233b6d744de5fc4bf069f47/jetified-commons-0.8.6.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.afollestad.material-dialogs/commons/0.8.6.1/f6278d0cdcaf1ece28ea90ffcb10e3146acea560/commons-0.8.6.1-javadoc.jar!/" />
